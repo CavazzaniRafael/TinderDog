@@ -50,7 +50,7 @@ h1 {
 /* Features */
 
 #features{
-    padding: 10% 0;
+    padding: 8% 0;
     text-align: center;
 }
 .features-topic{
@@ -60,4 +60,17 @@ h1 {
 }
 .feature-p{
     color: #8f8f88;
+
+}
+.feature-icon{
+    color: #ef8172;
+    font-size: 5.5rem;
+    padding-bottom: 20px;
+    
+}
+.feature-div{
+    padding: 2.2rem ;
+}
+.feature-icon:hover{
+    color:#ff4c68
 }
